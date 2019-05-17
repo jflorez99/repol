@@ -4,6 +4,9 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <title></title>
+
+Aqui farem la modificacions del local, del exercici 7
+
   </head>
   <body>
   <table class="table table-bordered table-hover table-condensed">
