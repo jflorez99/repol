@@ -6,6 +6,7 @@
     <title></title>
 
 Aqui farem la modificacions del local, del exercici 7
+Canvi per fer el exercici11
 
   </head>
   <body>
